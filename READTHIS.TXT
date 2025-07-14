@@ -1,0 +1,13 @@
+Hello pak!
+
+Kalo mau run codenya, make sure to
+
+1. make a new environment (optional)
+
+2. activate environment (optional)
+
+3. install the requirements.txtnya
+
+4. then kalo mau run
+python .\app.py
+
